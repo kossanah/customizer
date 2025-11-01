@@ -250,9 +250,9 @@ fixtures = [
     {
         "doctype": "Custom Field",
         "filters": [
-            ["name", "in", ["Sales Invoice-custom_numbers",
-                            "POS Invoice-custom_numbers",
-                            "Sales Order-custom_numbers",]]
+            ["name", "in", ["Sales Invoice-custom_number",
+                            "POS Invoice-custom_number",
+                            "Sales Order-custom_number"]]
         ]
     }
 ]
